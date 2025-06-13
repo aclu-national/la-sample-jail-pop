@@ -3,7 +3,7 @@ In this repository, we present the results of scraping jail population data from
 
 ## Note 
 1. We have **not** included the code necessary to scrape the rosters from the LA VINE system to protect the privacy of those who jailed in Louisiana.
-2. There are only 69 jails with live rosters. According to the [Vera Institute](https://www.vera.org/louisiana-locked-up), sheriff's operate 85 Parish jails and municipal police departments operate 65 jails. This means that this data set only accounts for 65% of all jails in Louisiana. 
+2. There are only 69 jails with live rosters. According to the [Vera Institute](https://www.vera.org/louisiana-locked-up), sheriff's operate 85 Parish jails and municipal police departments operate 65 jails. This means that this data set only accounts for 46% of all jails in Louisiana. 
 
 # Findings (as of June 13th, 2025)
 
