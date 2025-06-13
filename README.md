@@ -8,7 +8,7 @@ In this repository, we present the results of scraping jail population data from
 # Findings (as of June 13th, 2025)
 
 ## Total
-As of June 13th, 2025, **24,622** people are incarcerated in the sample of jails in Louisiana. This includes **240** people under the age of 18 and **1368** over the age of 55. Additionally, **58.21%** of these people are Black, even though Black Louisianians only make up 32.6% of the population, and **88.84%** of these people are male.
+As of June 13th, 2025, **24,622** people are incarcerated in the sample of jails in Louisiana. This includes **240** people under the age of 18 and **1368** over the age of 55. Additionally, **58.21%** of those in this sample are Black, even though Black Louisianians only make up 32.6% of the population, and **88.84%** of those in this sample are male.
 
 ## Per Jail
 |jail|data_date|total|total_race|total_gender|total_age|black|white|aapi|native|race_unknown|race_na|female|male|gender_unknown|gender_na|age_under_18|age_18_24|age_25_34|age_35_44|age_45_54|age_55_plus|pct_black|pct_white|pct_aapi|pct_native|pct_race_unknown|pct_race_na|pct_female|pct_male|pct_gender_unknown|pct_gender_na|pct_age_under_18|pct_age_18_24|pct_age_25_34|pct_age_35_44|pct_age_45_54|pct_age_55_plus|
