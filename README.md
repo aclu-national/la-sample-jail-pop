@@ -5,7 +5,7 @@ In this repository, we present the results of scraping jail population data from
 1. We have **not** included the code necessary to scrape the rosters from the LA VINE system to protect the privacy of those who jailed in Louisiana.
 2. There are only 69 jails with live rosters. According to the [Vera Institute](https://www.vera.org/louisiana-locked-up), sheriff's operate 85 Parish jails and municipal police departments operate 65 jails. This means that this data set only accounts for 65% of all jails in Louisiana. 
 
-# Findings
+# Findings (as of June 13th, 2025)
 
 ## Total
 As of June 13th, 2025, **24,622** people are incarcerated in the sample of jails in Louisiana. This includes **240** people under the age of 18 and **1368** over the age of 55. Additionally, **58.21%** of these people are Black, even though Black Louisianians only make up 32.6% of the population, and **88.84%** of these people are male.
